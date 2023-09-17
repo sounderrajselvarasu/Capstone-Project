@@ -155,7 +155,7 @@
         display: grid;
         grid-template-columns:1fr;
         grid-template-rows: repeat(10,250PX);
-        height: 370vh;
+        height: auto;
     }
     .achdis{
         padding: 30px;
@@ -213,7 +213,7 @@
     .hobboot{
         background-color: #EEEEEE;
         border-radius: 10%;
-        height: 260vh;
+        height: 1800px;
         flex-direction: column;
     }
     .footer{
